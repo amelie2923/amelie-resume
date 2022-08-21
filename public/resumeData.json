@@ -2,17 +2,16 @@
   "main": {
     "name": "Amélie",
     "occupation": "FullStack developer",
-    "description": "After a first training in web development, I chose to continue my training thanks to a bachelor degree with Simplon Réunion, which I did in work-study program within the start-up Crowdaa. Motivated, creative and always curious to learn, I want to join a team to improve myself and continue to develop my skills.",
     "image": "profilepic.jpg",
-    "bio": "I'm a passionate junior web developer. I particularly like the React and nodeJS fullstack javascript combo. I'm passionate about animals, nature and perfumes.",
+    "bio": "I followed a a bachelor degree training at Simplon Réunion, which I did in work-study program within the start-up Crowdaa on a Nodejs/React stack with a microservices and serverless architecture. Motivated, creative and always curious to learn, I want to join a team to improve myself and continue to develop my skills. I particularly like the React and nodeJS fullstack javascript combo but I'm open to learning other technologies. I'm passionate about animals, nature and perfumes.",
     "contactmessage": "Contact me via this form",
     "email": "amelie.salaun@gmail.com",
     "phone": "0636528211",
     "address": {
-      "state": "Brittany"
+      "state": "Douarnenez, Brittany"
     },
     "website": "http://www.http://ameliesalaun.fr/",
-    "resumedownload": "https://drive.google.com/file/d/1YaQG64QKCMwMvyGC15fDN5NSJiJ1rqa1/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1pBv6LrxBqp01GFDcylje_PFgfnEagNu0/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -27,13 +26,13 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here are my main skills as a junior developer :",
+    "skillmessage": "Here are my main skills as a developer :",
     "education": [
       {
         "school": "Simplon.co",
         "degree": "Titre professionnel Développeur Concepteur d'Applications",
         "graduated": "June 2021",
-        "description": "Deepening of programming principles, decision-making in technical choices, mock-ups, group projects. Web Technologies :PHP, Javascript, NodeJs,  Python, SQLite, Mongo... Frameworks : Laravel(PHP), Electron (Desktop), Express (NodeJs), Tkinter (Python), Cordova (Mobile)... "
+        "description": "Deepening of programming principles, decision-making in technical choices, mock-ups, group projects. Web Technologies : PHP, Javascript, NodeJs,  Python, SQLite, Mongo... Frameworks : Laravel(PHP), Electron (Desktop), Express (NodeJs), Tkinter (Python), Cordova (Mobile)... "
       },
       {
         "school": "Callac Soft College",
@@ -119,7 +118,13 @@
         "title": "Animal Airline",
         "category": "(MVP Only-In progress) A React and Laravel personnal project to create a networking platform.",
         "image": "animalairline.png",
-        "url": "https://www.animal-airline.com/"
+        "url": "#"
+      },
+      {
+        "title": "NaturaPhren",
+        "category": "Built with WordPress for a naturopath and sophrologist in Reunion Island",
+        "image": "naturaphren.jpg",
+        "url": "https://naturaphren974.com/"
       }
     ]
   },
